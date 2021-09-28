@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+*.log
+node_modules
+config/settings.json
+
+
+# sublime projects
+*.sublime-project
+*.sublime-workspace
+*.TODO
