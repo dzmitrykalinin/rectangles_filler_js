@@ -16,7 +16,7 @@ curl --location --request POST 'localhost:4040/create_image_with_lines_and_fill?
 --header 'Content-Type: application/json' \
 --data-raw '{
     "image": {
-        "imageSize": 800,
+        "imageSize": 10,
         "lines": [
             { "x1": 0, "y1": 5, "x2": 5, "y2": 5},
             { "x1": 5, "y1": 5, "x2": 5, "y2": 0}
